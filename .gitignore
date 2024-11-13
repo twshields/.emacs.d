@@ -4,3 +4,5 @@ config.el
 var
 etc
 .DS_Store
+elpaca
+org-persist
