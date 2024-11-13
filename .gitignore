@@ -3,3 +3,4 @@ eln-cache
 config.el
 var
 etc
+.DS_Store
