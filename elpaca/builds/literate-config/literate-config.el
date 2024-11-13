@@ -1,1 +1,0 @@
-/Users/w019540/.emacs.d/elpaca/repos/emacs-literate-config/literate-config.el
