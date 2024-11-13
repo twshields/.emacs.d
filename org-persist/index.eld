@@ -1,2 +1,0 @@
-;;   -*- mode: lisp-data; -*-
-((:container ((elisp org-element--headline-cache) (elisp org-element--cache) (version "2.3")) :persist-file "14/85f1cd-fd62-4488-b36f-6da4b83aff92" :associated (:hash "5e96f22df54d4f46366380be9312c824" :file "/Users/w019540/.emacs.d/config.org" :inode 12899670706) :expiry 30) (:container ((index "3.2")) :persist-file "ff/4be9ff-3655-409d-99bf-cffc4dc99b5c" :associated nil :expiry never))
